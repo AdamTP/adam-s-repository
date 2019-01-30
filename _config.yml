@@ -3,7 +3,7 @@ title: Adam's test product title
 email: atay7728@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   rent bond board claim.
-baseurl: "/adam-s-repository # the subpath of your site, e.g. /blog
+baseurl: "/adam-s-repository" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tjharrop
 github_username:  tjharrop
